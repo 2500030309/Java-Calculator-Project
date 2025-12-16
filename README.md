@@ -16,3 +16,5 @@ It supports basic and scientific calculations.
 
 ## Author
 2500030309
+2500030121
+2500030149
